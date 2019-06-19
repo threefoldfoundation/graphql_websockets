@@ -1,0 +1,5 @@
+ujson
+graphql_ws
+sanic>=0.7.0
+graphene>=2.0
+sanic-graphql>=1.1.0
